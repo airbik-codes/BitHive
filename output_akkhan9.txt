@@ -1,0 +1,110 @@
+PS C:\Users\Overlord\downloads\Final Sub> python midtermprg600.py
+Please enter the number of players: Four
+Invalid input please try again
+Please enter the number of players: 4
+Please enter player #1 name: Appla
+Please enter player #2 name: Applb
+Please enter player #3 name: Applc
+Please enter player #4 name: Appld
+Please enter how many rounds the players wish to play: Three
+Invalid input please try again
+Please enter how many rounds the players wish to play: 3
+******************** Round 1 ******************
+Round      Round 1   Round 2   Round 3   Total
+Appla      0          0          0          0
+Applb      0          0          0          0
+Applc      0          0          0          0
+Appld      0          0          0          0
+******************************************************
+Appla! Hit enter once you are ready to roll your dices!
+5 and 1
+Applb! Hit enter once you are ready to roll your dices!
+6 and 1
+Applc! Hit enter once you are ready to roll your dices!
+5 and 1
+Appld! Hit enter once you are ready to roll your dices!
+4 and 4
+******************** End of Round 1 ******************
+Round      Round 1   Round 2   Round 3   Total
+Appla      6          0          0          6
+Applb      7          0          0          7
+Applc      6          0          0          6
+Appld      8          0          0          8
+******************************************************
+Appla! Hit enter once you are ready to roll your dices!
+2 and 5
+Applb! Hit enter once you are ready to roll your dices!
+5 and 5
+Applc! Hit enter once you are ready to roll your dices!
+1 and 6
+Appld! Hit enter once you are ready to roll your dices!
+6 and 1
+******************** End of Round 2 ******************
+Round      Round 1   Round 2   Round 3   Total
+Appla      6          7          0          13
+Applb      7          10         0          17
+Applc      6          7          0          13
+Appld      8          7          0          15
+******************************************************
+Appla! Hit enter once you are ready to roll your dices!
+5 and 4
+Applb! Hit enter once you are ready to roll your dices!
+1 and 6
+Applc! Hit enter once you are ready to roll your dices!
+3 and 3
+Appld! Hit enter once you are ready to roll your dices!
+3 and 4
+******************** End of Round 3 ******************
+Round      Round 1   Round 2   Round 3   Total
+Appla      6          7          9          22
+Applb      7          10         7          24
+Applc      6          7          6          19
+Appld      8          7          7          22
+******************************************************
+Congratulations Applb! You are our WINNER!
+Would you like to play another game?
+[1] Yes
+[2] No
+Your choice: 1
+Please enter the number of players: 3
+Please enter player #1 name: Oranga
+Please enter player #2 name: Orangb
+Please enter player #3 name: Orangc
+Please enter how many rounds the players wish to play: 2
+******************** Round 1 ******************
+Round      Round 1   Round 2   Total
+Oranga     0          0          0
+Orangb     0          0          0
+Orangc     0          0          0
+********************************************
+Oranga! Hit enter once you are ready to roll your dices!
+1 and 6
+Orangb! Hit enter once you are ready to roll your dices!
+4 and 1
+Orangc! Hit enter once you are ready to roll your dices!
+4 and 3
+******************** End of Round 1 ******************
+Round      Round 1   Round 2   Total
+Oranga     7          0          7
+Orangb     5          0          5
+Orangc     7          0          7
+********************************************
+Oranga! Hit enter once you are ready to roll your dices!
+2 and 1
+Orangb! Hit enter once you are ready to roll your dices!
+3 and 3
+Orangc! Hit enter once you are ready to roll your dices!
+4 and 1
+******************** End of Round 2 ******************
+Round      Round 1   Round 2   Total
+Oranga     7          3          10
+Orangb     5          6          11
+Orangc     7          5          12
+********************************************
+Congratulations Orangc! You are our WINNER!
+Would you like to play another game?
+[1] Yes
+[2] No
+Your choice: 2
+Thank you and see you later!
+PS C:\Users\Overlord>

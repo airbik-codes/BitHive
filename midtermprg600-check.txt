@@ -1,0 +1,30 @@
+INFO:root:logging test
+INFO:root:Test Run: 2023-10-12 22:19:13.667796
+INFO:root:midtermprg600-check.txt 6b28e16da3a87a71c5cc021638b34567
+INFO:root:
+INFO:root:
+INFO:root:<class '__main__.TestRollDice'>: test successful.
+INFO:root:<class '__main__.TestRollDice'>: 1 Marks Awarded - (This is further evaluated after submission and might change after revewing your code).
+INFO:root:done.
+INFO:root:<class '__main__.TestGetPlayers'>: test successful.
+INFO:root:<class '__main__.TestGetPlayers'>: 1 Marks Awarded - (This is further evaluated after submission and might change after revewing your code).
+INFO:root:done.
+INFO:root:<class '__main__.TestGetRounds'>: test successful.
+INFO:root:<class '__main__.TestGetRounds'>: 1 Marks Awarded - (This is further evaluated after submission and might change after revewing your code).
+INFO:root:done.
+INFO:root:<class '__main__.TestSetgame'>: test successful.
+INFO:root:<class '__main__.TestSetgame'>: 4 Marks Awarded - (This is further evaluated after submission and might change after revewing your code).
+INFO:root:done.
+INFO:root:<class '__main__.TestAskToRoll'>: test successful.
+INFO:root:<class '__main__.TestAskToRoll'>: 1 Marks Awarded - (This is further evaluated after submission and might change after revewing your code).
+INFO:root:done.
+INFO:root:<class '__main__.TestFindWinner'>: test successful.
+INFO:root:<class '__main__.TestFindWinner'>: 2 Marks Awarded - (This is further evaluated after submission and might change after revewing your code).
+INFO:root:done.
+WARNING:root:<class '__main__.TestRunGame'>: Failures encountered.
+WARNING:root:This does not mean your code is not working. Attach a screenshot of the error you see in your terminal when you run this check script, along with you manual testing screenshot covering all cases in the answerdocument_username.pdf.
+WARNING:root:To get most points provide proper inline comments and details of what you function does and each line of code does
+INFO:root:done.
+INFO:root:<class '__main__.TestPrintGame'>: Undecided Provide Screenshots and Recordings.
+INFO:root:done.
+INFO:root:Your total is 10
