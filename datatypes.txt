@@ -1,0 +1,13 @@
+What datatype (string/integer/float) will you use for the following:
+
+1. The student’s name? String (Store in a variable)
+
+2. The number of students in a class? Integer (Store in a variable)
+
+3. The student’s grade (as a percent)?; Float; Divide the earned points by the total possible points and multiply by 100.
+
+4. The student’s nine-digit ID number? Integer; (Store in a variable)
+
+5. The total amount of tuitions paid by the student (in Canadian dollars)? Float; Multiply the total number of subjects with fees per subject. 
+
+When answering these questions, consider also what types of processing you will be doing with these variables. Are they mathematical?
