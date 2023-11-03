@@ -1,0 +1,18 @@
+INFO:root:c:/Users/Overlord/Downloads/Lab6 Submission/check-lab6.py 28a91ca5840d32645504b88395ff4a54
+INFO:root:logging test
+INFO:root:Test Run: 2023-11-03 14:39:00.329586
+INFO:root:lab6a.py: test successful.
+INFO:root:lab6a.py 12c68968f49a82b8aa51771c2ed745e6
+INFO:root:done.
+INFO:root:lab6b.py: test successful.
+INFO:root:lab6b.py 91e6c9c7e6ecc161e7d6f34bb45e4b86
+INFO:root:done.
+INFO:root:lab6c.py: test successful.
+INFO:root:lab6c.py 1877dba26c21f18664597bcb618e6a2e
+INFO:root:done.
+INFO:root:lab6d.py: test successful.
+INFO:root:lab6d.py ab425e907280af89804db48fcfd57c41
+INFO:root:done.
+INFO:root:challenge6.py: test successful.
+INFO:root:challenge6.py 6ba3b3acc689fc0504d8f8dfd823b0bd
+INFO:root:done.
