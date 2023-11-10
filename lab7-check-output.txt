@@ -1,0 +1,18 @@
+INFO:root:c:/Users/Overlord/Downloads/Lab5/check-lab7.py 7dd52ec7a5645c44808cd8ff059ef866
+INFO:root:logging test
+INFO:root:Test Run: 2023-11-09 20:29:36.518610
+INFO:root:lab7a.py: test successful.
+INFO:root:lab7a.py 4cfc7cdc33598fd1e312c66401e75ce0
+INFO:root:done.
+INFO:root:lab7b.py: test successful.
+INFO:root:lab7b.py f594bd581dc3d39d21ad20aea3a9c4a8
+INFO:root:done.
+INFO:root:lab7c.py: test successful.
+INFO:root:lab7c.py 9e1665b50fc3c863b092a59e08ac0601
+INFO:root:done.
+INFO:root:lab7d.py: test successful.
+INFO:root:lab7d.py d636e8ab9d6ede586fb1f0cde8a08de8
+INFO:root:done.
+INFO:root:challenge7.py: test successful.
+INFO:root:challenge7.py 6db34726047d2bc5b13cbc3e025afaa6
+INFO:root:done.
