@@ -1,0 +1,18 @@
+INFO:root:c:/Users/Overlord/Downloads/Lab6 Sub/check-lab8.py 2e3a62abaa0d41d3e7f27498be1297ab
+INFO:root:logging test
+INFO:root:Test Run: 2023-11-24 20:28:20.513420
+INFO:root:lab8a.py: test successful.
+INFO:root:lab8a.py 2a829b0571ef00f4a7c42921474ac12b
+INFO:root:done.
+INFO:root:lab8b.py: test successful.
+INFO:root:lab8b.py 564e5aaff158e57922e9e6ac21a8884d
+INFO:root:done.
+INFO:root:lab8c.py: test successful.
+INFO:root:lab8c.py 877a087517db7c0c09497c69c9633764
+INFO:root:done.
+INFO:root:lab8d.py: test successful.
+INFO:root:lab8d.py c24f528ba085dabaf9369cf9cf841e8f
+INFO:root:done.
+INFO:root:lab8e.py: test successful.
+INFO:root:lab8e.py 7630706f837a3c7f518fc66882c4edfe
+INFO:root:done.
